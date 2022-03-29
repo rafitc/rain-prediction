@@ -34,7 +34,7 @@ const Hero = () => (
         }
         description="The easiest way to build a R."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="/register">
             <a>
               <Button xl>Register to get SMS Alert</Button>
             </a>
